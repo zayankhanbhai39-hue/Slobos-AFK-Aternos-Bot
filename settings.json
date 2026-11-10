@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zayanisapro1.aternos.me",
+    "ip": "pencilfish.aternos.host:14323",
     "port":  14323,
     "version": "",
     "try-creative": false
